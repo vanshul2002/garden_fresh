@@ -3,7 +3,7 @@ import Header from './header';
 import Hero from './hero';
 function App(){
     return (
-     <div>
+     <div className=' p-4'>
        <Header/>
        <Hero/>
     </div>
